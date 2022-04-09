@@ -27,7 +27,7 @@
     "angular-bootstrap-md": "^7.4.1",
     "core-js": "^2.5.4",
     "jquery": "^3.3.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "ngx-perfect-scrollbar": "^6.2.0",
     "rxjs": "^6.4.0",
     "spservices": "^2.0.0-pre-alpha",
